@@ -4,7 +4,7 @@ Python threaded ICMP Ping
 
 ## Description
 
-Python thread ICMP ping with status info. Cut the ping time with threads.
+Python threaded ICMP ping with status info. Cut the ping time with threads.
 
 
 ## Dependencies
